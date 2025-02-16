@@ -3,3 +3,4 @@
 "Third commit" 
 "Feature commit 1" 
 "Feature commit 2" 
+Таня Горенко 
